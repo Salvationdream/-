@@ -1,0 +1,22 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+<title>标题标签 hn </title>
+</head>
+<body>
+
+<h1 align="center">一级标题文字居中</h1>>
+<h2 align="left">二级标题文字，左对齐</h2>
+<h3 align="right">三级标题文字，右对齐</h3>
+<h4 align="justify" >四级标题文字，两端对齐</h4>
+<h5>五级标题文字，默认对齐属性</h5>
+<h5>五级标题文字，默认对齐属性</h5>
+<h6>六级标题文字，默认对齐属性</h6>
+
+
+
+</body>
+</html>

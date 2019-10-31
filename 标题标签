@@ -1,0 +1,19 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+											<!--文档声明部分-->
+<html xmlns="http://www.w3.org/1999/xhtml">	<!--文档开始标签-->
+<head>										<!--头开始标签-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+											<!--元数据标签-->
+<title>标题标签 hn </title>					<!--页面标题标签-->
+</head>										<!--头结束标签-->
+
+<body>										<!--主体开始标签-->
+<h1 align="center">一级标题文字居中</h1>>		<!--标题标签 大小 一级 居中对齐-->
+<h2 align="left">二级标题文字，左对齐</h2>		<!--标题标签 大小 二级 右对齐-->
+<h3 align="right">三级标题文字，右对齐</h3>		<!--标题标签 大小 三级 右对齐-->
+<h4 align="justify" >四级标题文字，两端对齐</h4>	<!--标题标签 大小 四级 两端对齐-->
+<h5>五级标题文字，默认对齐属性</h5>				<!--标题标签 大小 五级 默认对齐-->
+<h6>六级标题文字，默认对齐属性</h6>				<!--标题标签大小 六级 默认对齐-->
+
+</body>										<!--主体结束标签-->
+</html>										<!--文档结束标签-->
